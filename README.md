@@ -1,3 +1,5 @@
 <body>
-    <h1 style="text-align: center;">Testing1</h1>
+    <div align = "center">
+        <h1 align = "center"> ABOUT ME </h1>
+    </div>
 </body>
