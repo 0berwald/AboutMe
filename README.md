@@ -7,4 +7,5 @@
         <p> I am an individual who has practice multiple programming languages, and have a large amount of experience with logical senses in programming. </p>
         <p> I love what I am doing, programming is really fun for me. </p>
     </div>
+    <br>
 </body>
